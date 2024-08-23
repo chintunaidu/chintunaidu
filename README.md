@@ -1,0 +1,14 @@
+Name :GANNABATHULA LAKSHMI SATYA GANGA PRASAD
+
+Company : CODTECH IT SOLUTIONS
+
+ID : CT6PPX1020
+
+Domain :PYTHON PROGRAMMING
+Duration : August 1st 2024 to September 15th 2024
+
+Mentor : NEELA SANTHOSH KUMAR
+
+OVERVIEW OF THE PROJECT :
+![Screenshot 2024-08-23 212516](https://github.com/user-attachments/assets/176175ca-22e7-4d84-a3bc-c1e84fbb9044)
+PROJECT :
